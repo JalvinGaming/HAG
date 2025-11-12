@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20.0)
+project(HAG)
+file(GLOB GENERIC_SOURCE CONFIGURE_DEPENDS source/general/*.c)
+file(GLOB LIB_HEADERS CONFIGURE_DEPENDS include/*.h)
+add_library(HAG STATIC ${GENERIC_SOURCE} ${LIB_HEADERS})
