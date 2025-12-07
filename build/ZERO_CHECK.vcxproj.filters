@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nuala\OneDrive\Documents\Projects\HAG\HAG\build\CMakeFiles\d9916d6ae89456709c3d7b0ea26ebd48\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6886FD56-8113-3313-9D50-8AD2BB354D9F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

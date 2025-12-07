@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E588286E-38D5-386E-B4A3-71A3AE03CD61}|HAG.vcxproj|C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\source\\win32\\hag_window.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\include\\hag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hag_window.c",
+              "DocumentMoniker": "C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\source\\win32\\hag_window.c",
+              "RelativeDocumentMoniker": "..\\source\\win32\\hag_window.c",
+              "ToolTip": "C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\source\\win32\\hag_window.c",
+              "RelativeToolTip": "..\\source\\win32\\hag_window.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-13T21:07:41.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hag.h",
+              "DocumentMoniker": "C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\include\\hag.h",
+              "RelativeDocumentMoniker": "..\\include\\hag.h",
+              "ToolTip": "C:\\Users\\nuala\\OneDrive\\Documents\\Projects\\HAG\\HAG\\include\\hag.h",
+              "RelativeToolTip": "..\\include\\hag.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-13T21:02:13.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nuala\OneDrive\Documents\Projects\HAG\HAG\source\win32\hag_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nuala\OneDrive\Documents\Projects\HAG\HAG\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D5ECD9F8-89E1-3DC5-9060-00676CA39D36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

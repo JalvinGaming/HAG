@@ -1,0 +1,10 @@
+^C:\USERS\NUALA\ONEDRIVE\DOCUMENTS\PROJECTS\HAG\HAG\BUILD\CMAKEFILES\D9916D6AE89456709C3D7B0EA26EBD48\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nuala/OneDrive/Documents/Projects/HAG/HAG -BC:/Users/nuala/OneDrive/Documents/Projects/HAG/HAG/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nuala/OneDrive/Documents/Projects/HAG/HAG/build/HAG.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
